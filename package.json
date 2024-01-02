@@ -1,0 +1,25 @@
+{
+  "name": "bot-whatsapp-auto",
+  "version": "1.0.0",
+  "description": "Bot de notificacion de estado de linea2-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoCarrill0/Bot-Whatsapp-Auto.git"
+  },
+  "author": "@LeoCarrill0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoCarrill0/Bot-Whatsapp-Auto/issues"
+  },
+  "homepage": "https://github.com/LeoCarrill0/Bot-Whatsapp-Auto#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
