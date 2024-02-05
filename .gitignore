@@ -3,3 +3,5 @@
 .wwebjs_cache/*
 .env
 .env
+/media
+/out
